@@ -1,0 +1,10 @@
+Client ID: 1
+Client secret: p15kn11TFytw2Ur4l2LyNxJYZ3yfTsgolQ5gk9S1
+
+本地 ：bYc2OSntlB5C8gB6FKTh4atN20J7AjVIP5r9Cl0f
+
+scp -r ./dist root@172.81.242.64:/www/dist
+
+scp -r ./dist root@172.81.242.64:/www/dist-admin
+
+ssh root@172.81.242.64
